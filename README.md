@@ -8,9 +8,13 @@ this tutorial is for linux users.
 Before executing the program:
 1. Install pytesseract.
 2. Intsall tesseract using pip or apt
+
   pip install pytesseract
+  
         or
+        
   sudo apt install tesseract-ocr
+  
   sudo apt install libtesseract-dev
   
  If you're installing pytesseract using pip, there is a chance of getting an error:
