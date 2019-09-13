@@ -1,4 +1,8 @@
 # Read_Image_embedded_Text
+
+This code will recognize and “read” the text embedded in images using Python-tesseract.
+Python-tesseract is an optical character recognition (OCR) tool for python.
+
 this tutorial is for linux users.
 
 Before executing the program:
